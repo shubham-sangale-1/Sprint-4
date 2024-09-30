@@ -124,6 +124,14 @@ button {
       font-size: 1.25rem; /* Smaller font size on mobile */
   }
 }
+#top-heading {
+  font-size: 2.5rem; /* Adjust size for larger screens */
+}
+
+#top-des {
+  font-size: 1.25rem; /* Slightly larger for better readability */
+}
+
 
 
 .custom-container {
